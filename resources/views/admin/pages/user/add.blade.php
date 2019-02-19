@@ -3,7 +3,7 @@
 @section('content')
 <h1>User <small class="text-muted">Tambah</small></h1>
 <hr>
-
+<!-- //hjgyuftdtx -->
 <div class="row">
 	<div class="col-md-6">
 		<form method="POST" action="{{ route('admin.user.add') }}">
